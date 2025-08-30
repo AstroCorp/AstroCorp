@@ -1,7 +1,7 @@
 # 👋 Hola, soy Alejandro
 
 <p>💼 Trabajo en Freepik como Full-Stack Developer</p>
-<p>🚀 En mis ratos libres dedico algo de tiempo a desarrollar <a href="https://github.com/AstroCorp/Ace-Books" target="_blank">Ace Books</a> entre otros proyectos que tengo entre mis repositorios</p>
+<p>🚀 En mis ratos libres, dedico parte de mi tiempo a desarrollar <a href="https://github.com/AstroCorp/Ace-Books" target="_blank">Ace Books</a>, entre otros proyectos que puedes ver en mis repositorios</p>
 <p>📚 Actualmente estoy ampliando mis conocimientos en testing para entregar código confiable y robusto</p>
 
 ## 🛠️ Tecnologías con las que trabajo
