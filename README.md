@@ -1,12 +1,12 @@
 # 👋 Hola, soy Alejandro
 
-<p style="margin: 5px 0;">💼 Trabajo en Freepik como Full-Stack Developer</p>
-<p style="margin: 5px 0;">🚀 En mis ratos libres dedico algo de tiempo a desarrollar <a href="https://github.com/AstroCorp/Ace-Books" target="_blank">Ace Books</a> entre otros proyectos que tengo entre mis repositorios</p>
-<p style="margin: 5px 0;">📚 Actualmente estoy ampliando mis conocimientos en testing para entregar código confiable y robusto</p>
+<p>💼 Trabajo en Freepik como Full-Stack Developer</p>
+<p>🚀 En mis ratos libres dedico algo de tiempo a desarrollar <a href="https://github.com/AstroCorp/Ace-Books" target="_blank">Ace Books</a> entre otros proyectos que tengo entre mis repositorios</p>
+<p>📚 Actualmente estoy ampliando mis conocimientos en testing para entregar código confiable y robusto</p>
 
 ## 🛠️ Tecnologías con las que trabajo
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start; justify-content: flex-start;">
+<div>
     <img src="icons/HTML.svg" alt="HTML" width="50" height="50" />
     <img src="icons/CSS.svg" alt="CSS" width="50" height="50" />
     <img src="icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
