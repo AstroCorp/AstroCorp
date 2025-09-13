@@ -15,6 +15,7 @@
     <img src="icons/VueJS.svg" alt="Vue.js" width="45" height="45" />
     <img src="icons/NuxtJS.svg" alt="Nuxt.js" width="45" height="45" />
     <img src="icons/React.svg" alt="React" width="45" height="45" />
+    <img src="icons/Expo.svg" alt="Expo" width="45" height="45" />
     <img src="icons/NextJS.svg" alt="Next.js" width="45" height="45" />
     <img src="icons/AlpineJS.svg" alt="Alpine.js" width="45" height="45" />
     <img src="icons/Vite.svg" alt="Vite" width="45" height="45" />
@@ -32,6 +33,7 @@
     <img src="icons/Godot.svg" alt="Godot" width="45" height="45" />
     <img src="icons/CS.svg" alt="C#" width="45" height="45" />
     <img src="icons/Docker.svg" alt="Docker" width="45" height="45" />
+    <img src="icons/Bash.svg" alt="Bash" width="45" height="45" />
     <img src="icons/Git.svg" alt="Git" width="45" height="45" />
     <img src="icons/Github.svg" alt="GitHub" width="45" height="45" />
     <img src="icons/VSCode.svg" alt="VS Code" width="45" height="45" />
